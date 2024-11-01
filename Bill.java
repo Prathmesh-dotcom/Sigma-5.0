@@ -15,7 +15,6 @@ public class Bill {
         System.out.println("pen: "+pen+" rs.");
         System.out.println("eraser: "+eraser+" rs.");
         System.out.println("Total: "+bill+" rs.");
-        System.out.println("Total: "+bill+" rs.");
         
 
 
