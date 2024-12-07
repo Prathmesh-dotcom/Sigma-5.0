@@ -16,6 +16,7 @@ public class Bill {
         System.out.println("eraser: "+eraser+" rs.");
         System.out.println("Total: "+bill+" rs.");
         
+        
 
 
     }
