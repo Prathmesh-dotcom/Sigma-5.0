@@ -11,7 +11,6 @@ public class factorial {
         for(int i=1; i<=num; i++){
             fact*=i;
         }
-
         System.out.println("Factorial: "+ fact);
         sc.close();
 
