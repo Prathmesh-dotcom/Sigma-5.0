@@ -13,6 +13,8 @@ public class factorial {
         }
 
         System.out.println("Factorial: "+ fact);
+        sc.close();
 
     }
+
 }

@@ -11,6 +11,6 @@ public class PosiNega {
         else{
             System.out.println("Number is Negative");
         }
-
+        sc.close();
     }
 }

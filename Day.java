@@ -33,5 +33,6 @@ public class Day {
                 System.out.println("You entered wrong week number");
                 
         }
+        sc.close();
     }
 }
