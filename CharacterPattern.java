@@ -6,6 +6,7 @@ public class CharacterPattern {
                 System.out.print(ch);
                 ch++;
             }
+            
             System.out.println();
         }
     }
