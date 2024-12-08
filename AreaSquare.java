@@ -5,7 +5,6 @@ public class AreaSquare {
         System.out.println("Enter a length of side:");
         int side= sc.nextInt();
         sc.close();
-
         int area= side*side;
         System.out.println("Area of square:"+area);
     }
