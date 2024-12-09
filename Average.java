@@ -11,7 +11,6 @@ public class Average{
         int c = sc.nextInt();
         sc.close();
 
-
         int avg=a+b+c/3;
         System.out.println("Average is:"+avg);
     }
