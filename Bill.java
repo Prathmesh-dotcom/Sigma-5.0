@@ -1,6 +1,7 @@
 import java.util.*;
 public class Bill {
     public static void main(String args[]){
+        
         Scanner sc= new Scanner(System.in);
         System.out.println("Enter price of pencil");
         float pencil= sc.nextFloat();
